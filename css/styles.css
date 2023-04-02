@@ -175,7 +175,7 @@ header {
   color: var(--light);
 }
 
-.footer-title {
+.footer-soc-text {
   margin-bottom: 16px;
   font-weight: 500;
   font-size: 16px;
@@ -285,7 +285,7 @@ header {
   width: calc((100% - 72px) / 4);
 }
 
-.advantages-link {
+.advantages-logo {
   width: 264px;
   height: 112px;
   border-radius: 4px;
